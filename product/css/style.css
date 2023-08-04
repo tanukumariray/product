@@ -1,0 +1,12 @@
+/* body {
+  background-image: "img\OIP (2).jpg";
+} */
+div {
+  align-items: center;
+  height: 500px;
+  width: 600px;
+  background-color: rgb(116, 207, 246);
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: white;
+  font-weight: 500;
+}
